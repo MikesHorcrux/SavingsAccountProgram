@@ -28,7 +28,6 @@
 		A13A66422382449100049868 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		A13A66492382453B00049868 /* SavingsAccount.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = SavingsAccount.cpp; sourceTree = "<group>"; };
 		A13A664A2382453B00049868 /* SavingsAccount.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SavingsAccount.hpp; sourceTree = "<group>"; };
-		A1C255072382EEED00E1D5F4 /* ReadMe.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = ReadMe.rtf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +63,6 @@
 				A13A66422382449100049868 /* main.cpp */,
 				A13A66492382453B00049868 /* SavingsAccount.cpp */,
 				A13A664A2382453B00049868 /* SavingsAccount.hpp */,
-				A1C255072382EEED00E1D5F4 /* ReadMe.rtf */,
 			);
 			path = SavingsAccountProgram;
 			sourceTree = "<group>";
